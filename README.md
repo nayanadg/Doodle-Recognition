@@ -15,8 +15,8 @@ The aim of the proposed work is to design and develop a framework to create and 
 
 ## Objectives
 The main objectives of this model are:
-1.Create doodle images.
-2.Classify or recognize doodle images.
+* Create doodle images.
+* Classify or recognize doodle images.
 
 ## Architecture
 Application will provide us with two input options.
